@@ -5,5 +5,3 @@ dist
 .eslintcache
 .DS_Store
 .vercel
-deploy.sh
-.gitignore
